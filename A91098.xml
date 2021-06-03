@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions concerning the sale of delinquents lands. Most necessary for the good of this kingdome. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91098</idno><idno type="EEBO-CITATION">99860898</idno>
+  <idno type="VID">113025</idno>
+  <idno type="EEBO-PROQUEST">2240888021</idno>
+  
+            <idno type="STC">Wing P3778</idno>
+            <idno type="STC">Thomason E288_6</idno>
+            <idno type="STC">ESTC R200094</idno>
+            <idno type="PROQUEST">99860898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860898e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113025)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions concerning the sale of delinquents lands. Most necessary for the good of this kingdome. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Ed. Husband,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune the 12. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Real property --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_printers">
+            <pb facs="tcp:113025:1"/>
+            <head>To all Printers, Booke-sellers, Booke-binders, Free-men of the Company of Stationers</head>
+            <p>YOU are desired by the Committee that was chosen by you at a Common Hall the first of Aprill last, to be at Stationers Hall the 23. day of this instant June, being Munday, at eight of the clock in the mor<g ref="char:EOLhyphen"/>ning, to take an Account from the said Com<g ref="char:EOLhyphen"/>mittee, of what they have done in pursuance of that trust you reposed in them, concer<g ref="char:EOLhyphen"/>ning Reformation and Printing, and to compleat the Subscriptions for the printing of the Bible, &amp;c. that the Manufacture of the Kingdome may not be utterly lost: of which you are desired not to faile, it being for a generall good. Dated this thirteenth day of June 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:113025:2"/>
+            <pb n="1" facs="tcp:113025:2"/>
+            <head>Propositions concerning the sale of Delinquents Lands, most neces<g ref="char:EOLhyphen"/>sary for the good of this Kingdome.</head>
+            <p n="1">1.</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat active Delinquents be not admitted to Composition, And that of their Estates which are within forty miles of <hi>London,</hi> Twelve hundred thousand pounds-worth be forthwith set forth to bee Morgaged, to advance foure hundred thou<g ref="char:EOLhyphen"/>sand pounds into the publique Treasurie, And foure hundred thousand pounds more for the paiment proportionably of moneys borrowed in kind upon the Publique Faith, and that foure hundred thousand pounds the remainder lye in the hands of the Morgager,
+<pb n="2" facs="tcp:113025:3"/>as their security untill the end of five yeares, That a Committee be appointed to take care that if the Rents of the lands Morgaged a<g ref="char:EOLhyphen"/>mount above the use after 8. <hi>per cent,</hi> of the eight hundred thousand pounds advanc'd, the surplusage to be paid in to the State, The rates of purchase to be ten yeares value for Lands, and five for Houses, according as they yeel<g ref="char:EOLhyphen"/>ded in the ye<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re one thoufand six hundred forty two, That if the State, or any other ad<g ref="char:EOLhyphen"/>mitted by them, doe not after five years expi<g ref="char:EOLhyphen"/>red, repay the two thirds advanc'd, That then upon the payment of the other foure hun<g ref="char:EOLhyphen"/>dred thousand pounds by the Morgagers, those Lands to be assured to them and their heires for ever.</p>
+            <div type="reasons">
+               <head>Reasons enforcing and perswading to this Proposition.</head>
+               <p n="1">1. BY admitting Delinquents to Com<g ref="char:EOLhyphen"/>position we receive Vipers into our bosomes to make a partie amongst us, and also hinder them from connection, as putting them into a securer and better
+<pb n="3" facs="tcp:113025:3"/>estate then the best friends of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. Iustice and Religion before God and man, declared both by Scripture and Ordi<g ref="char:EOLhyphen"/>nances of Parliament Requires, that their e<g ref="char:EOLhyphen"/>states which have occasioned, and doe now prosecute a warre against us should bee ex<g ref="char:EOLhyphen"/>pended to maintaine it, which appeares <hi>de facto,</hi> in the Order past for their sale in the Designe for <hi>Oxford,</hi> and in the feasance and forfeiture of all their personall estates. If their goods and moneys in our possession, why not their Lands which are moneys worth, and as serviceable to the State.</p>
+               <p n="3">3. The Honour and Iustice of the Parlia<g ref="char:EOLhyphen"/>ment in paying the Kingdomes Ingagements many creditours then able, being now ready to famish, when as there is sufficient in our power to repay, and make reparation, The Money thus repaid being but laid up in faith<g ref="char:EOLhyphen"/>full treasuries, untill the necessities of the State shall againe require it; Besides, the City of <hi>London</hi> thus faithfull dealt with, will bee
+<pb n="4" facs="tcp:113025:4"/>ready upon all occasions to advance great and sufficient summes.</p>
+               <p n="4">4. Policiy of State to ingage and confirme the souldery, as also the great Rich men both of the City and Counties, who though Malignant, yet out of one Respect or other will bee ready to purchase, The Comman<g ref="char:EOLhyphen"/>ders as low as Captaines will be I am perswa<g ref="char:EOLhyphen"/>ded, content to accept of their quarter pay, if not all upon these Conditions, Hence also wil follow a preservation of the Kingdome, and a hastning the conclusion of the Warre, since this of any way will soonest lessen and bring to Submission the contrary party especially since the goodnesse of the State hath reserved a third part unsold, if they come in within the yeeres prefixt, such that shall Stand out in Rebellion five yeares longer deserving not onely to loose two thirds with the Papists, but all.</p>
+               <p n="5">5. Wisdome and good Husbandry to take time whilst time serves, These Lands being now in our power to bee disposed of, which
+<pb n="5" facs="tcp:113025:4"/>the enemey in one Moneth may repossesse, By selling wee secure them, and make them usefull to the State, as being stocked by the Purchasers, and yeelding both contribution and Provisions whereas now they are in a manner fruitlesse and unprofitable.</p>
+               <p n="6">6. Policie of State to have this foure hun<g ref="char:EOLhyphen"/>dred thousand pounds in Banke, which will bee above a quarters pay for our Army and Navy, and ease and spare the well affected partie, Also hereby the incredible expence for the recruite of Horse and Armes, besides the infinite pressure of free quarter, want of Discipline, losse of Oppertunityes and sud<g ref="char:EOLhyphen"/>den Mouldring away of our Armyes will be remedied and prevented. Lastly by a generall proceeding in these sales and the helpe of the Excise (regulated that a third may not issue out to Officers) this Banke may be preserved even during the Warres.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
